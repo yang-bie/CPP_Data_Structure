@@ -1,4 +1,4 @@
-# C-_Data_Structure
+# CPP_Data_Structure
 1.1 Why is the computer used by so many different people, in so many different professions?
     Because computer can be programmed, they are not designed to do just one job, but any job their programs tell them to do.
 1.2 List the five major hardware components of a computer system.
