@@ -92,3 +92,28 @@
      Must make a variable definition.
 1.24 What are the three primary activities of a program?
      Input, processing and output.
+1.25 What four items should you identify when defining what a program is to do?
+     Purpose, Input, Process and Output.
+1.26 What does it mean to "visualize a program running"? What is the value of such an activity?
+     Try to imagine what the computer screen looks like while the program is running.
+1.27 What is the hierarchy chart?
+     A hierarchy chart begins with the overall task then refines it into smaller subtasks. Each of the subtasks is then
+     refined into even smaller sets of subtasks, until each is small enough to be easily performed.
+1.28 Describe the process of desk-checking.
+     Desk-checking means the programmer starts to read the program, or a portion of a program, and steps through each
+     statement.
+1.29 Describe what a compiler does with a program's source code.
+     When the source code is being translating to machine language, the complier will find any syntax errors that may
+     exist in the program.
+1.30 What is a runtime error?
+     A runtime error is an error that occurs while the program is running. These are usually logical errors, such as
+     mathematical mistakes.
+1.31 Is a syntax error(such as misspelling a key word) found by the complier or when the program is running?
+     The compiler will find any syntax errors that may exist in the program.
+1.32 What is the purpose of testing a program with sample data or input?
+     To verify if the program produce correct output, if not, a logical error is present in the program.
+1.33 Briefly describe the difference between procedural and object-oriented programming.
+     Procedural programming is centered on the procedure, or function. Object-oriented programming(OOP), on the other
+     hand, is centered on the object. An object is a programming element that contains data and the procedures that
+     operate on the data. It is a self-contained unit.
+     
