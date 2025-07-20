@@ -21,6 +21,6 @@ int main() {
     contribution = monthlyPay * 0.1;
     cout << "10 percent is $" << contribution
             << " per month.\n";
-        
+
     return 0;
 }
