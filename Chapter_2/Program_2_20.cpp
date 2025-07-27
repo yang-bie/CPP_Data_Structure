@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-    cout << value;
+    cout << "value";
 
     int value = 100;
     return 0;
