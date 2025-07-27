@@ -49,4 +49,5 @@
 # CMake
 CMakeLists.txt
 
-
+# Ignore Unix executable files (no exetension)
+Program_*_*
