@@ -50,6 +50,6 @@
 CMakeLists.txt
 
 # Ignore Unix executable files (no exetension)
-Program_*_*
 
+# DS_Store file
 .DS_Store
