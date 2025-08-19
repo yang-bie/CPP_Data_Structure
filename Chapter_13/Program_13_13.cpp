@@ -2,9 +2,9 @@
 // Created by Yang on 8/12/25.
 //
 // This program demonstrates a class with overloaded constructors.
-#include <iostream>
 #include <iomanip>
-#include "InventoryItem.h"
+#include <iostream>
+#include "../Chapter_12/InventoryItem.h"
 using namespace std;
 
 int main() {

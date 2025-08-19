@@ -4,7 +4,7 @@
 // This program demonstrates an array of class objects.
 #include <iomanip>
 #include <iostream>
-#include "InventoryItem.h"
+#include "../Chapter_12/InventoryItem.h"
 using namespace std;
 
 int main() {
