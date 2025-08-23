@@ -19,9 +19,9 @@ public:
     void setScore(double s) { score = s; }
 
     // Accessor function
-    double getScore() { return score; }
+    double getScore() const { return score; }
 
-    char getLetterGrade() const;
+    virtual char getLetterGrade() const;
 };
 
 #endif // CPP_DATA_STRUCTURE_GRADEDACTIVITY_H
